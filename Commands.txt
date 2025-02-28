@@ -1,0 +1,6 @@
+git status
+git add .
+git push
+
+git checkout branch -b branchName
+ git checkout branchName ---to change the branch
